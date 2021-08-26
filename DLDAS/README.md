@@ -4,7 +4,7 @@ conda env create -f DLDAS_env.yaml
 conda activate dldas
 ```
 ## Train Muti-Domain Texture Generative Adversarial Network
-downloads [weight of domain-invariant perceptual loss](https://drive.google.com/file/d/1SyXPgY-47-RfOKg6z2wedOWyji4nUjvQ/view?usp=sharing).\
+downloads [weight of domain-invariant perceptual loss](https://drive.google.com/file/d/1mtecxy-Mt_uPjJza7uGymh5ZFpGFXyDg/view?usp=sharing).\
 ```mkdir ./models``` and put in ```./models```
 ### Drishti-GS content sythesis training
 Downloads Data put in ```./dataset/dgs```\
