@@ -10,7 +10,7 @@ python data.py \
 --SupTL_k 0.8 \
 --g_aug Contrast+Gamma2 \
 --result best_dgs \
---test_dir ./2roi_test/dgs/specific_paper_test \
+--test_dir ./data/dgs/paper/test/specific_paper_test \
 --test_type specific_paper
 
 

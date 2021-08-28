@@ -10,7 +10,7 @@ python data.py \
 --SupTL_k 0.9 \
 --g_aug Contrast+Gamma2 \
 --result best_few_jsrt \
---test_dir ./2roi_test/jsrt/specific_paper_test \
+--test_dir ./data/jsrt/few/test/specific_paper_test \
 --test_type specific_paper
 
 
