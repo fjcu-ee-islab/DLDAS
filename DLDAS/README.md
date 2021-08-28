@@ -3,6 +3,7 @@
 conda env create -f DLDAS_env.yaml
 conda activate dldas
 ```
+Downloads [training data](https://drive.google.com/file/d/1V2GUO2K60UbTYjsG3sHZOy1Ft_stk7_G/view?usp=sharing)
 ## Train Muti-Domain Texture Generative Adversarial Network
 downloads [weight of domain-invariant perceptual loss](https://drive.google.com/file/d/1mtecxy-Mt_uPjJza7uGymh5ZFpGFXyDg/view?usp=sharing).\
 ```mkdir ./models``` and put in ```./models```
