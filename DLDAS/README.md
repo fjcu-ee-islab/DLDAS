@@ -29,7 +29,7 @@ Domain Style data put in ```./dataset/jsrt/trainB``` and random choice 30 sample
 bash train_jsrt.sh
 ```
 ## Synthesis Texture & Structure Data
-### RIM-ONEv3 content sythesis training
+### RIM-ONEv3 content sythesis
 downloads [RIM-ONEv3 sythesize generator pretrained model](https://drive.google.com/file/d/1WYmTcpvP4NqtNB1vQfWOet7hMQphtDvK/view?usp=sharing).\
 ```mkdir -p output/rim_paper/checkpoints``` and put in ```./output/rim_paper/checkpoints```\
 Content data label put in ```./dataset/rim/testA_label```
@@ -37,7 +37,7 @@ Content data label put in ```./dataset/rim/testA_label```
 synthesis_rim.sh
 ```
 output to ```./rim_paper_aug```
-### Drishti-GS content sythesis training
+### Drishti-GS content sythesis
 downloads [Drishti-GS sythesize generator pretrained model](https://drive.google.com/file/d/1QjhBvf4Xs7wrisoMSljDN9RC6SUlZePn/view?usp=sharing).\
 ```mkdir -p output/dgs_paper/checkpoints``` and put in ```./output/dgs_paper/checkpoints```\
 Content data label put in ```./dataset/dgs/testA_label```
@@ -45,7 +45,7 @@ Content data label put in ```./dataset/dgs/testA_label```
 synthesis_dgs.sh
 ```
 output to ```./dgs_paper_aug```
-### JSRT content sythesis training
+### JSRT content sythesis
 downloads [JSRT sythesize generator pretrained model](https://drive.google.com/file/d/1ODqrEh31oDIi_Y7T7LfpESetvkdZ9dmO/view?usp=sharing).\
 ```mkdir -p output/jsrt_paper/checkpoints``` and put in ```./output/jsrt_paper/checkpoints```\
 Content data label put in ```./dataset/jsrt/testA_label```
