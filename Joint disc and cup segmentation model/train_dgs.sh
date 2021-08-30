@@ -9,7 +9,7 @@ python data.py \
 --SupTL_k 0.8 \
 --g_aug Contrast+Gamma2 \
 --result paper \
---test_dir ./data/dgs/paper/test/specific_paper_test \
+--test_dir ./data/dgs/paper/test/specific_paper_test/image \
 --test_type specific_paper
 
 CUDA_VISIBLE_DEVICES=1 python main.py \
