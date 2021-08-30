@@ -10,4 +10,4 @@ Its code and readme is in ```DLDAS``` floder.
 We modify the U-Net architecture to suit for few labeled data, proposing segmentation metric loss function with changeable learning curve to suit for medical image.
 Its code and readme is in ```Joint disc and cup segmentation model``` floder.
 
-![image](https://github.com/fjcu-ee-islab/DLDAS/tree/main/flowchart/flowchart.png)
+![image](https://github.com/fjcu-ee-islab/DLDAS/blob/main/flowchart/flowchart.png)
