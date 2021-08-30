@@ -10,7 +10,7 @@ python data.py \
 --SupTL_k 0.9 \
 --g_aug Contrast+Gamma2 \
 --result best_paper_rim \
---test_dir ./data/rim/paper/test/specific_paper_test \
+--test_dir ./data/rim/paper/test/specific_paper_test/image \
 --test_type specific_paper
 
 
