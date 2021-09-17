@@ -1,4 +1,6 @@
 ## Joint disc and cup segmentation model training anaconda environment
+cuda version:9.0\
+cudnn version:7.4.2\
 ```
 conda env create -f jdcseg.yaml
 conda activate jdcseg

@@ -1,4 +1,6 @@
 ## DLDAS anaconda environment
+cuda version:9.0\
+cudnn version:7.4.2\
 ```
 conda env create -f DLDAS_env.yaml
 conda activate dldas
